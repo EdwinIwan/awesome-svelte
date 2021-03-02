@@ -51,7 +51,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Twitter](https://twitter.com/sveltejs)
 - [Discord](https://svelte.dev/chat)
 - [Reddit](https://www.reddit.com/r/sveltejs/)
-- [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte日本.
+- [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte 日本.
 
 ### Conferences
 
@@ -224,6 +224,12 @@ _SSR framework._
 - [sapper-tailwindcss-template](https://github.com/sarioglu/sapper-tailwindcss-template) - The default Sapper template with Tailwind CSS.
 - [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template) - Template that includes Sapper, TypeScript preprocessing, and a GraphQL server through TypeGraphQL.
 - [sapper-start](https://github.com/matt3224/sapper-start) - Sapper Rollup template with opinionated defaults such as SCSS support, shorthand paths, less boilerplate files and more.
+
+#### Electron
+
+_Electron templates_
+
+- [svelte-vite-electron-template](https://github.com/EdwinIwan/svelte-vite-electron-template) - Template that includes Vite, Electron and Typescipt.
 
 ## Dev Tools
 
